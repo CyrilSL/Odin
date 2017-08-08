@@ -1,0 +1,28 @@
+.active{
+    background-color:#0000FF;
+    border: 1px solid black;
+    padding:15px;
+}
+.inactive{
+    border: 1px solid black;
+    padding:15px;
+    background-color:#FF00FF;
+}
+
+#clr{
+    background-color:#000000;
+    color:#ffffff;    
+}
+
+body{
+    background-color:#000000;
+}
+
+table{
+    border-spacing:1px;
+}
+td {
+    border: 1px solid black;
+    padding:15px;
+    background-color:#FF00FF;
+}
